@@ -25,7 +25,13 @@
             <tr>
                 <td style="padding: 12px; border: 1px solid #d0d7de;">2025.06.30 ~ 07.11</td>
                 <td style="padding: 12px; border: 1px solid #d0d7de;">(주)젠토 인턴십</td>
-                <td style="padding: 12px; border: 1px solid #d0d7de;">허깅페이스의 Text to image/video 모델을 활용한 생성 서비스</td>
+                <td style="padding: 12px; border: 1px solid #d0d7de;">
+                    <a href="https://github.com/JeongSeop-Lee/Text-to-image" 
+                       target="_blank" 
+                       style="text-decoration: none; color: #0969da;">
+                       허깅페이스의 Text to image/video 모델을 활용한 생성 서비스
+                    </a>
+                </td>
             </tr>
         </tbody>
         <tbody>
